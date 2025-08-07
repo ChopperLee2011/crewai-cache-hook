@@ -18,7 +18,7 @@ setup(
     description='A Redis cache decorator for crewAI tasks',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/crewai-cache-hook',
+    url='https://github.com/ChopperLee2011/crewai-cache-hook',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

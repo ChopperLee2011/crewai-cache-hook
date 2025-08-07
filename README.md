@@ -1,6 +1,16 @@
 # crewai-cache-hook
 
+[![PyPI version](https://badge.fury.io/py/crewai-cache-hook.svg)](https://badge.fury.io/py/crewai-cache-hook)
+[![Python Versions](https://img.shields.io/pypi/pyversions/crewai-cache-hook.svg)](https://pypi.org/project/crewai-cache-hook/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Redis-based cache decorator for crewai tasks.
+
+## Project Status
+
+- **Version**: 0.1.1
+- **Status**: Beta
+- **Maintained**: Yes
 
 ## Features
 - Add cache capability to tasks via a decorator
