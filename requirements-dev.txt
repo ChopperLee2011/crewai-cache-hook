@@ -1,0 +1,5 @@
+redis
+pytest
+crewai
+mock
+coverage
